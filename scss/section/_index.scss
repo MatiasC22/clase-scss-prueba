@@ -1,0 +1,8 @@
+.main-index{
+    h1{
+        text-align: center;
+        font-family: $fuente-titulo;
+        font-size: 45px;
+        @extend .text-center;
+    }
+}

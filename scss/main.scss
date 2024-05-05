@@ -1,7 +1,12 @@
 // Utilidades (VAR -> COLOR)
-@import './utilities/colors.scss';
+@import './utilities/colors';
+@import './utilities/fonts';
 @import './utilities/reset';
+@import './utilities/clases-globales';
 
 
 // Secciones
-@import './section/header.scss';
+@import './section/header';
+@import './section/index';
+@import './section/peliculas';
+@import './section/footer';
